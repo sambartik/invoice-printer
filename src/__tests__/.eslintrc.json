@@ -1,0 +1,9 @@
+{
+  "parserOptions": {"project": "../../tsconfig.json"},
+  "rules": {
+    "global-require": "off",
+    "node/no-unpublished-import": "off",
+    "prefer-destructuring": "off",
+    "@typescript-eslint/dot-notation": "off"
+  }
+}
